@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "typeRoots": ["node_modules/@types"],
+    "outDir": "../promote-package"
+  },
+  "exclude": [
+    "../node_modules"
+  ]
+}
